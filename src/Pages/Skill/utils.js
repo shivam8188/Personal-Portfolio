@@ -18,28 +18,25 @@ export const skillData = [
         skillName: "React Js",
         percetage: "75",
       },
+       {
+        skillName: "Bootstrap",
+        percetage: "75",
+      },
     ],
   },
   {
     labels: "Back End",
     data: [
       {
-        skillName: "Java",
+        skillName: "Node.js",
         percetage: "70",
       },
 
       {
-        skillName: "Hibernate",
+        skillName: "Express.js",
         percetage: "80",
       },
-      {
-        skillName: "Spring",
-        percetage: "60",
-      },
-      {
-        skillName: "Spring Boot",
-        percetage: "70",
-      },
+     
     ],
   },
   {
@@ -48,8 +45,11 @@ export const skillData = [
       {
         skillName: "SQL",
         percetage: "85",
-      }
-      
+      },
+       {
+        skillName: "MongoDB",
+        percetage: "85",
+      } 
     ],
   },{
   labels: "Tools/Platform",
@@ -63,6 +63,10 @@ export const skillData = [
         percetage: "70",
       },
       {
+        skillName: "REST APIs",
+        percetage: "70",
+      },
+      {
         skillName: "Eclipse",
         percetage: "70",
       },
@@ -70,9 +74,6 @@ export const skillData = [
         skillName: "VS Code",
         percetage: "70",
       },
-      {
-        skillName: "STS ( Spring Tool Suite )",
-        percetage: "70",
-      },
+     
     ]}
 ];

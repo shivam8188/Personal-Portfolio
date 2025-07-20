@@ -60,7 +60,7 @@ const Project = () => {
             <h1>Crack Detection System</h1>
             <p>
               This is an Arduino based project used to check crack on Railtarck
-              automatically.It is my final year Major projet.
+              automatically.
             </p>
           </div>
         </div>

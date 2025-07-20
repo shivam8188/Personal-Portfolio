@@ -9,19 +9,19 @@ import "./about.css";
 const personalDetails = [
   {
     label: "Name",
-    value: "Shubham Kumar",
+    value: "Shivam Kumar Vishwakarma",
   },
   {
     label: "Age",
-    value: 23,
+    value: 21,
   },
   {
     label: "Email",
-    value: "shubhamvishwakarma57201@gmail.com",
+    value: "shivamv7770@gmail.com",
   },
   {
     label: "Contact No",
-    value: 8564822267,
+    value: 8188948830,
   },
   {
     label: "Address",
