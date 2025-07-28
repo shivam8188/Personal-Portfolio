@@ -1,0 +1,39 @@
+.project-content {
+  display: flex;
+  padding-left: 25px;
+  padding-right: 25px;
+  gap: 20%;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  
+}
+.project-content-left,
+.project-content-right {
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 45%;
+}
+.project-content-left {
+  padding-top: 30px;
+}
+h1 {
+  font-size: 30px;
+  color: rgb(90, 166, 140);
+  text-align: center;
+}
+.project1,
+.project2,
+.project3,
+.project4 {
+  border: 2px solid rgb(110, 79, 79);
+  border-radius: 10px;
+  
+  padding-top: 20px;
+}
+.project2,.project4{
+margin-top: 20px;
+}
+
