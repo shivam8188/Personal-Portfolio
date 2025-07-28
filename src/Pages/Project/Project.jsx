@@ -18,12 +18,12 @@ const Project = () => {
               data of the employees. I have used technology like HTML/CSS
               ,JavaScript, Bootstrap, and React Js.
             </p>
-            <Link to={"https://github.com/Shubham8564/CRUD-operation.git"}>
+            {/* <Link to={""}>
               <button>Code Link</button>
             </Link>
-            <Link to={"https://shubham8564.github.io/CRUD-operation/"}>
+            <Link to={""}>
               <button>Run Code</button>
-            </Link>
+            </Link> */}
           </div>
 
           <div className="project2">
@@ -32,12 +32,12 @@ const Project = () => {
               This is a React based project.Here you can check my personal
               information like my Education, Projects, etc.
             </p>
-            <Link to={"https://github.com/Shubham8564/Personal-Portfolio"}>
+            {/* <Link to={""}>
               <button>Code Link</button>
             </Link>
-            <Link to={"https://github.com/Shubham8564/Personal-Portfolio"}>
+            <Link to={""}>
               <button>Run Code</button>
-            </Link>
+            </Link> */}
           </div>
         </div>
 
@@ -48,12 +48,12 @@ const Project = () => {
               this project is used to check city weather using API. I have used
               technology like HTML/CSS ,JavaScript and open API.
             </p>
-            <Link to={"https://github.com/Shubham8564/Weather.git"}>
+            {/* <Link to={""}>
               <button>Code Link</button>{" "}
             </Link>
-            <Link to={"https://shubham8564.github.io/Weather/"}>
+            <Link to={""}>
               <button>Run Code</button>{" "}
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>
