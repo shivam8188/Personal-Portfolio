@@ -12,11 +12,10 @@ const Project = () => {
       <div className="project-content">
         <div className="project-content-left">
           <div className="project1">
-            <h1>CRUD Operation</h1>
+            <h1>AI Chatbot</h1>
             <p>
-              This project is used to perform CRUD (create,read,update,delete) operation
-              data of the employees. I have used technology like HTML/CSS
-              ,JavaScript, Bootstrap, and React Js.
+              This is an AI Chatbot that take prompt and give response.This is a Full Stack project. I have used technology like HTML/CSS
+              ,JavaScript, Bootstrap, React Js, Node js, Express js.
             </p>
             {/* <Link to={""}>
               <button>Code Link</button>

@@ -39,7 +39,7 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="navbar-logo">
           <Link to="/" className="navbar-logo-1">
-            <FaReact/>
+            {/* <FaReact/> */}
           </Link>
         </div>
         <ul className={`navbar-menu ${toggle ? "active" : ""}`}>
